@@ -19,7 +19,7 @@
     "node": ">=20"
   },
   "devDependencies": {
-    "@rspack/cli": "^2.1.8",
+    "@rspack/cli": "^2.2.6",
     "@rspack/core": "^2.1.8",
     "@rspack/dev-server": "^2.2.0"
   },
