@@ -1,0 +1,31 @@
+{
+  "theme": "warm",
+  "greeting": "Cô Nhi",
+  "name": "ơi! ✨",
+  "greetingText": "Hôm nay là một ngày siêu đặc biệt luôn á cô ơi! 🎂",
+  "wishText": "Chúc cô Nhi tuổi 22 luôn rực rỡ, ngập tràn niềm vui và hạnh phúc! Chúc mừng cô giáo siêu giỏi đã tốt nghiệp Xuất Sắc nha 🎓✨ Cảm ơn cô vì những món quà siêu xinh, sự tốt bụng dễ thương, và đặc biệt là ngàn lần biết ơn cô vì đã 'gánh còng lưng' kéo điểm tiếng Anh cho em lên hehe. Chúc con đường sự nghiệp của cô ngày càng thăng hoa, rực rỡ và luôn là cô giáo tiếng Anh được học sinh yêu quý hết nấc ạ! 💖🎁🎉",
+  "imagePath": "img/co-nhi.jpg",
+  "text1": "HAPPY BIRTHDAY CÔ NHI! (21/09/2004) 🎉",
+  "textInChatBox": "Chúc cô giáo tiếng Anh siêu cấp dễ thương và tài năng (tốt nghiệp xuất sắc luôn nè 🎓✨) một sinh nhật tuổi 22 thật ngọt ngào, hạnh phúc và mãi mãi xinh đẹp nhaaa... 💖",
+  "sendButtonLabel": "Gửi ✈️",
+  "text2": "Đáng lẽ ra em chỉ định gửi tin nhắn chúc mừng bình thường như vậy thui...",
+  "text3": "Nhưng mà nghĩ lại thấy như thế thì đơn giản quá...",
+  "text4": "Nên em quyết định phải làm một điều gì đó",
+  "text4Adjective": "thật đặc biệt!",
+  "text5Entry": "Bởi vì...",
+  "text5Content": "Cô là người cô giáo tiếng Anh vừa giỏi giang, vừa tốt bụng, dễ thương và tuyệt vời nhất trần đời! ❤️",
+  "smiley": ":>",
+  "bigTextPart1": "VẬY",
+  "bigTextPart2": "NÊN",
+  "wishHeading": "HAPPY BIRTHDAY!",
+  "outroText": "Em mong là cô sẽ thích món quà bất ngờ nho nhỏ này của em nha! 🥰",
+  "replayText": "Cô bấm vào đây nếu muốn xem lại từ đầu nè! Hoặc nghe nhạc tiếp nghen... 🎵",
+  "outroSmiley": ":3",
+  "music": "./music/baby.mp3",
+  "fonts": [
+    {
+      "name": "Itim",
+      "path": "https://fonts.googleapis.com/css2?family=Itim&display=swap"
+    }
+  ]
+}

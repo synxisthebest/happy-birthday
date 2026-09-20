@@ -1,0 +1,27 @@
+{
+  "name": "happy-birthday-co-nhi",
+  "version": "1.0.0",
+  "description": "Happy Birthday Cô Nhi (21/09/2004) 🎂 - A special birthday microsite made with love",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build",
+    "serve": "rspack serve",
+    "start": "rspack serve",
+    "validate": "node scripts/validate-config.mjs",
+    "check-dist": "node scripts/check-dist.mjs"
+  },
+  "author": "Harry <synxisthebest>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^2.1.8",
+    "@rspack/core": "^2.1.8",
+    "@rspack/dev-server": "^2.2.0"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "gsap": "^3.15.0"
+  }
+}
